@@ -1,0 +1,26 @@
+Take a look at Mar’s eerie nightglow
+A new look at Mars’ eerie, ultraviolet nighttime glow.
+
+NASA’s Mars Atmosphere and Volatile Evolution (MAVEN) spacecraft has mapped the planet’s nightglow in greater detail than ever before. This nightglow ebbs and flows over Mars’ seasons. The group also discovered something unusual: an unexpectedly bright spot that appears in the planet’s atmosphere just above its equator.
+
+LASP’s Nick Schneider, the lead author of the new study, said, “Mars, in other words, still has a few surprises in store for scientists. The behavior of the Martian atmosphere is every bit as complicated and insightful as that of Earth’s atmosphere.”
+
+MAVEN wasn’t the first spacecraft to spot the nightglow on Mars, a phenomenon that resembles similar glows seen on Earth and Venus. But the mission was the first to capture the nightglow for what it is—a dynamic and continually evolving phenomenon.
+
+Using MAVEN’s Imaging Ultraviolet Spectrograph (IUVS)—an instrument designed and built at LASP, scientists snapped images of Mars from a distance of 3,700 miles. Those far-flung permitted the group to follow the way of nightglow as it moved over the whole planet.
+
+Zachariah Milby, a professional research assistant at the Laboratory for Atmospheric and Space Physics (LASP) at CU Boulder, said, “The eerie aura appears when air currents high in Mars’ atmosphere plunge to about 40 miles above the planet’s surface. When that happens, lone nitrogen and oxygen atoms in the atmosphere combine to form molecules of nitric oxide, giving off small bursts of ultraviolet light in the process. Put differently, when its atmosphere drops, Mars shines.”
+
+“It’s a great tracer for dynamics between the layers of the atmosphere.”
+
+“Like on Earth, those dynamics can shift with the seasons. The MAVEN team found, for example, that Mars’ nightglow seems to be brightest at the height of the planet’s northern and southern winters when hotter currents rush away from the equator and toward Mars’ poles.”
+
+Milby also found something he wasn’t expecting in the data: an extra-bright blob of nightglow that appeared and disappeared from almost exactly above 0 degrees longitude and 0 degrees latitude on Mars.
+
+“We spent weeks thinking there was a bug in our code somewhere.”
+
+But that was not a bug. Scientists still are not sure why Mars is glowing so much at that unusual spot—it may have something to do with the shape of the terrain underneath.
+
+LASP’s Nick Schneider, the lead author of the new study, said, “observations like this can help scientists improve their computer models of how the planet’s atmosphere works.”
+
+“And that could lead to something that every astronaut might use: more accurate weather reports on Mars. We use supercomputers to predict weather on Earth so that you can plan for your vacation or growing crops. The same computer models can be spun up for Mars and all the other planets.”

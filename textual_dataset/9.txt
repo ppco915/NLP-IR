@@ -1,0 +1,49 @@
+Through a series of simulations, an international team of researchers has determined that some mergers of neutron stars produce radiation that should be detectible from Earth. When neutron stars of unequal mass merge, the smaller star is ripped apart by tidal forces from its massive companion (left). Most of the smaller partner’s mass falls onto the massive star, causing it to collapse and to form a black hole (middle). But some of the material is ejected into space; the rest falls back to form a massive accretion disk around the black hole (right). Image Credit: Adapted from figure 4 in “Accretion-induced prompt black hole formation in asymmetric neutron star mergers, dynamical ejecta and kilonova signals.” Bernuzzi et al., Monthly Notices of the Royal Astronomical Society.
+
+But an international research team, including a researcher from The Pennsylvania State University (Penn State), performed a range of simulations and established that these usually noiseless collisions—at least in terms of the radiation detected on Earth— can, at times, be much noisier.
+
+When two incredibly dense collapsed neutron stars combine to form a black hole, strong gravitational waves emerge from the impact. We can now pick up these waves using detectors like LIGO in the United States and Virgo in Italy. A black hole typically swallows any other radiation that could have come out of the merger that we would be able to detect on Earth, but through our simulations, we found that this may not always be the case.
+
+David Radice, Assistant Professor, Departments of Physics and of Astronomy and Astrophysics, The Pennsylvania State University
+
+Radice is also a member of the research group.
+
+The researchers discovered that when two colliding neutron stars have sufficiently different masses, the smaller companion is torn apart by the larger one. This results in a slower merger, enabling the escape of an electromagnetic “bang.” This electromagnetic signal should be detected by astronomers. The simulations also offer the signatures of those noisy collisions. Such signatures can be detected by astronomers from the Earth.
+
+The researchers, including members of the international collaboration Computational Relativity (CoRe), have detailed their findings in a study published online in the Monthly Notices of the Royal Astronomical Society.
+
+Recently, LIGO announced the discovery of a merger event in which the two stars have possibly very different masses. The main consequence in this scenario is that we expect this very characteristic electromagnetic counterpart to the gravititational wave signal.
+
+David Radice, Assistant Professor, Departments of Physics and of Astronomy and Astrophysics, The Pennsylvania State University
+
+The LIGO team reported the first detection of a neutron-star merger earlier in 2017 and later reported the second detection of this phenomenon in 2019. The researchers named this neutron-star merger as GW190425.
+
+The outcome of the 2017 collision was along the lines of astronomers’ predictions, with an overall mass of around 2.7 times the mass of the Sun and with both neutron stars having an almost equivalent mass.
+
+However, GW190425 was relatively heavier, with combined solar masses of about 3.5 and the ratio of both participants being more unequal—potentially as high as 2 to 1.
+
+“While a 2 to 1 difference in mass may not seem like a large difference, only a small range of masses is possible for neutron stars,” Radice added.
+
+Moreover, neutron stars can occur only in a narrow mass range from around 1.2 to 3 times the mass of the Sun. Instead of collapsing to form neutron stars, lighter stellar remnants form white dwarfs, whereas objects that are heavier tend to collapse directly to form black holes.
+
+When the variation between the combining stars becomes as large as in GW190425, researchers assumed that the merger of the neutron stars is likely to be messier—and louder in terms of electromagnetic radiation.
+
+But astronomers did not detect any such signal from the location of GW190425; however, coverage of that sky area by traditional telescopes on that day was not sufficiently good to rule it out.
+
+Therefore, to interpret the phenomenon of the collision between unequal neutron stars and to estimate the signatures of these collisions that could be investigated by astronomers, the researchers performed a simulation series using the San Diego Supercomputer Center’s Comet platform and Pittsburgh Supercomputing Center’s Bridges platform—both in the XSEDE network of supercomputing centers and computers of the National Science Foundation—and other types of supercomputers.
+
+The team observed that as the pair of simulated neutron stars gravitated toward one another, the smaller star was torn apart by the gravity of the larger star. That indicated that the smaller neutron star did not collide with its relatively larger companion simultaneously.
+
+The larger star turned into a black hole by the initial dump of the matter of the smaller star. However, the remnants of its matter were quite far away for the black hole to seize at once. Instead, a flash of electromagnetic radiation was produced by the slower rain of matter into the black hole.
+
+The researchers believe that their newly identified simulated signature can help astronomers using a mix of traditional telescopes and gravitational-wave detectors to identify the combined signals that would herald the disintegration of a smaller neutron star combining with a larger one.
+
+These simulations needed an odd combination of large amounts of memory, computing speed, and flexibility in shifting the data between computation and memory.
+
+The researchers employed around 500 computing cores, and ran them for weeks at a time, more than around 20 individual cases. The several physical amounts that had to be considered in every calculation needed around 100 times memory equivalent to a standard astrophysical simulation.
+
+There is a lot of uncertainty surrounding the properties of neutron stars. In order to understand them, we have to simulate many possible models to see which ones are compatible with astronomical observations. A single simulation of one model would not tell us much; we need to perform a large number of fairly computationally intensive simulations.
+
+David Radice, Assistant Professor, Departments of Physics and of Astronomy and Astrophysics, The Pennsylvania State University
+
+“We need a combination of high capacity and high capability that only machines like Bridges can offer. This work would not have been possible without access to such national supercomputing resources,” Radice concluded.

@@ -1,0 +1,7 @@
+Twitter launches much-awaited developer software after hack delay
+
+(Reuters) - Twitter Inc rolled out its new long-awaited Application Programming Interface (API) software on Wednesday, nearly a month after the social media company delayed the platform's launch following the hack of several high-profile accounts.
+
+The API platform provides broad access to public Twitter data that users have chosen to share, according to the microblogging site.
+
+The launch was postponed due to an unrelated hack that affected some of the social media platform's top voices including U.S. presidential candidate Joe Biden, reality TV star Kim Kardashian and former U.S. President Barack Obama.

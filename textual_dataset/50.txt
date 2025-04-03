@@ -1,0 +1,22 @@
+WhatsApp prompts users to search for the facts behind forwarded messages
+
+A new feature rolling out to WhatsApp users in Ireland will allow them to search the web for information related to forwarded messages.
+
+WhatsApp is piloting a new feature that will allow users to quickly research the content of a forwarded message.
+
+The ‘Search the Web’ feature is the latest effort by the Facebook-owned company to tackle how misinformation spreads via its messaging app.
+
+It comes with the simple addition of a search icon next to forwarded messages. When a WhatsApp user taps the magnifying glass beside the message, they will be asked if they want to upload the message to Google and search for further information.
+
+In graphics illustrating how the new feature works, WhatsApp shows how it intends to help dispel misinformation with reliable facts and authoritative guidance. For example, if a forwarded message contains a URL and headline for an article claiming that Covid-19 can be cured with a bowl of garlic water, a search of this message should ideally lead a user to material from the World Health Organization, news media and fact-checking organisations debunking such a claim.
+
+In a blog post, the company assured users that the message will be uploaded to Google’s search engine via the user’s default mobile web browser without WhatsApp ever having access to the message itself, maintaining the app’s end-to-end encryption.
+
+The search feature began rolling out to users in Ireland, Brazil, Italy, Mexico, Spain, the UK and the US yesterday (3 August). Users in those regions should see it starting to appear in the latest versions of the app whether on Android, iOS or WhatsApp Web.
+
+Limiting the spread
+In 2019, WhatsApp set a forwarding limit to restrict the rapid spread of messages that could be misleading or, at worst, harmful. In April this year, as coronavirus misinformation became an evident danger to public health, this was further restricted so that messages could be forwarded to just one group at a time.
+
+WhatsApp has also made tweaks to its interface to alert users to possibly misleading content. Forwarded messages in the app are now labelled clearly as such. A special label with two arrows indicates that a message has been forwarded many times, so users can tell it was not written by a close contact.
+
+In March, WhatsApp launched a coronavirus information hub offering guidance on using the service and reducing the spread of rumours and misinformation. This hub includes tips on how to stay connected and choose reliable sources of information.

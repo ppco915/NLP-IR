@@ -1,0 +1,41 @@
+Sunspot the size of Mars is turning towards Earth and massive solar flares could affect radio communications, GPS and power grids
+
+A massive sunspot observed on the sun is turning towards Earth and is expected to increase in size over the next few days.
+
+The area, dubbed AR2770, has a 'primary dark core' the width of Mars and a number of crater-size 'spotlets' littering its surface.
+
+The sunspot is a member of Solar Cycle 25, the new 11-year-long period of electromagnetic activity, and was observed crackling with minor flares.
+
+Although AR2770 has yet to produce 'killer' solar flares, experts are keeping a close watch in a bid to prepare for such an event that could knock out electrical operations and facilities on our planet.
+
+The new sunspot was observed by amateur astronomer Martin Wise, who snapped the image from Trenton, Florida.
+
+'This sunspot was an easy target for my solar telescope,' said Wise noting he used an 8-inch scope with safe solar filters to capture the picture.
+
+AR2770 is said to have emitted a number of B-class flares, the lowest class of solar flares, which have sent minor waves of ionization through Earth's atmosphere, Space Weather reports.
+
+However, the spot is growing and increased activity is possible over the next few days that may produce more intense solar flares.
+
+According to NASA, 'Solar flares are a sudden explosion of energy caused by tangling, crossing or reorganizing of magnetic field lines near sunspots.'
+
+Predicting when solar activity is set to increase could potentially protect astronauts in orbit, as well as preventing technologies like satellites from being destroyed.
+
+In June, scientists with the University of Warwick unveiled a new sun clock that can better calculate the switch on and off times of the sun.
+
+Lead author Professor Sandra Chapman said: 'Large events can happen at any time, but are much more likely around solar maximum. By cleanly ordering the observations we find that in 150 years of geomagnetic activity at earth, only a few percent occur during these quiet conditions.'
+
+'The ability to estimate the risk of a future solar superstorm occurring is vital for space and ground-based technologies that are particularly sensitive to space weather, such as satellites, communications system, power distribution and aviation.
+
+'If you have a system sensitive to space weather you need to know how likely a big event is, and it is useful to know when we are in a quiet period as it allows maintenance and other activities that make systems temporarily more fragile.'
+
+The team used sunspot observations over the past 200 years and mapped the sun's activity over 18 solar cycles to a standardized 11 year cycle – the sun starts a new solar cycle ever 11 years.
+
+Halfway through the cycle, solar activity increases that produces more flareups and radiation – all of which can be measured by sunspots.
+
+The team used the daily sunspot number record available since 1818 to map solar activity, allowing them to see the precise switch on and switch off times of solar activity.
+
+Once the clock is constructed from sunspot observations it can be used to order observations of solar activity and space weather.
+
+'Scientists spend their lives trying to read the book of nature. Sometimes we create a new way to transform the data and what appeared to be messy and complicated is suddenly beautifully simple,' said Chapman.
+
+'In this instance, our sun clock method showed clear 'switch on' and 'switch off' times demarcating quiet and active intervals for space weather for the first time.'

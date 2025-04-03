@@ -1,0 +1,11 @@
+The August 4th Beirut explosion shook the world and devasted communities. In addition, the news coverage and social media posts surrounding the event have been ongoing and diverse.
+
+We witnessed a physicist calculate the energy of the explosion from a bride’s wedding dress and saw countless post their prayers for Lebanon. Now, NASA has released an in-depth map of the Beirut explosion damage that truly expresses the devastation caused in the city.
+
+According to a press release, NASA’s Advanced Rapid Imaging and Analysis (ARIA) team worked in collaboration with the Earth Observatory of Singapore to produce the image. They used satellite-derived synthetic aperture radar data to map the likely extent of damage from the blast.
+
+Synthetic aperture radar data from space are traditionally used to show ground surface alterations from before and after a major event like an earthquake. Now, the same technology has been configured to showcasing the devastating results of the Beirut explosion.
+
+The map consists of several colored pixels each representing an area of 98 feet (30 meters). The dark red pixels indicate the most extreme damage while areas in orange are moderately damaged and areas in yellow are even less damaged.
+
+Maps such as these can help redirect aid where it is needed most by identifying the most badly affected areas. According to NASA, the map also contains “modified Copernicus Sentinel data processed by ESA (European Space Agency) and analyzed by ARIA team scientists at NASA JPL, Caltech, and Earth Observatory of Singapore.”

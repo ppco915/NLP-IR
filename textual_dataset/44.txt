@@ -1,0 +1,17 @@
+TikTok reportedly collected user data by surpassing Google's security policies: Know details
+
+The finding comes in the same month the US President issued an executive order, prohibiting transactions by any entity in the country with its Chinese owner within 45 days. TikTok was among the 59 apps that India banned in June
+
+TikTok secretly collected device data for months via its Android app using a technique that Google prohibits developers from using without consent of users, The Wall Street Journal reported.
+
+Although the practice came to an end in November, the finding could add to the woes of the short video-sharing platform which is facing the threat of a ban in the US over its data protection practices.
+
+TikTok's Android app tracked MAC (media access control) addresses -- unique hardware identifiers for networked devices -- for at least 15 months over 2018-19, according to the WSJ report on Tuesday.
+
+TikTok managed to hide the tactic through an "unusual added layer of encryption", according to the report. The short video-sharing platform owned by Chinese unicorn ByteDance reportedly took advantage of a security hole to collect the data.
+
+It is not known if iOS users also fell prey to such tactics which were banned several years ago by both Google and Apple. When the Journal reached for a reaction, TikTok said that MAC addresses are not collected by the current version of the app. While it is not clear why TikTok used the tactic to collect device data, it could be linked with its advertising goals.
+
+While Google did not comment on the loophole, it said that it was investigating the finding. The news of TikTok collecting MAC addresses of Android users comes after iOS 14 revealed that the app was accessing iPhone clipboards more than necessary, Android Authority reported.
+
+The finding comes in the same month the US President issued an executive order, prohibiting transactions by any entity in the country with its Chinese owner within 45 days. TikTok was among the 59 apps that India banned in June.

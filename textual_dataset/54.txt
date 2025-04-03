@@ -1,0 +1,47 @@
+SpaceX caps busy week with launch of 57 more Starlink satellites
+
+A SpaceX Falcon 9 rocket vaulted back into space early Friday, boosting another 57 Starlink internet relay stations into orbit along with two BlackSky remote sensing microsatellites. The launching of the first stage booster marked its fifth flight.
+
+It capped a busy week for the California rocket builder beginning with the successful splashdown of a Crew Dragon capsule Sunday that brought two NASA astronauts back to Earth from the International Space Station. The flight was the first to orbit for NASA astronauts from U.S. soil since the space shuttle was retired in 2011.
+
+Two days after splashdown, SpaceX engineers in Boca Chica, Texas, carried out the first up-and-down test flight of a prototype upper stage for the company's planned heavy-lift Starship rocket system.
+
+"What a week it's been here at SpaceX," John Insprucker, a SpaceX engineer and launch commentator, said after the latest batch of Starlinks was deployed. "We've capped it off with our 10th successful Starlink mission to date."
+
+A SpaceX Falcon 9 rocket powered by a first stage making its fifth flight streaked away from Cape Canaveral early Friday, boosting 57 Starlink internet relay stations into orbit along with two commercial remote sensing satellites. A time exposure captures the rocket's fiery trajectory as it climbed away from the Kennedy Space Center.
+
+Friday's flight got underway when the previously flown Falcon 9's first stage engines ignited with a rush of flame at 1:12 a.m. EDT. Lighting up the deep overnight sky, the 229-foot-tall rocket raced away from historic pad 39A at the Kennedy Space Center, arcing over on a northeasterly trajectory.
+
+The launch originally was planned for June 26, but the flight was delayed for "additional checkouts," SpaceX tweeted, after a first stage engine test firing. A launch try July 8 was called off because of weather and the flight was delayed again on July 11 for additional checkouts. No other details were provided.
+
+But it was clear sailing Friday, and two-and-a-half minutes after liftoff, the first stage engines shut down and the booster fell away, flipping around to set up a descent to landing on a waiting offshore drone ship.
+
+The second stage, meanwhile, continued the climb to space using its single vacuum-rated Merlin engine.
+
+Six minutes after stage separation, the first stage successfully landed on the drone ship "Of Course I Still Love You," marking the company's 57th successful booster recovery. About 30 seconds later, the second stage engine shut down after reaching the planned preliminary orbit.
+
+A 4-second engine firing was carried out 47 minutes after launch to complete the boost phase of the mission, setting up the two BlackSky satellite deploys and then the release of all 57 Starlinks.
+
+In side-by-side views from SpaceX, the Falcon 9's first stage, at left, is seen moments after a pinpoint landing on the droneship "Of Course I Still Love You," while the second stage engine, seen at right, completes the climb to orbit.
+
+With Friday's launch, SpaceX has deployed nearly 600 Starlink satellites in a rapidly expanding fleet of spacecraft designed to provide high-speed internet transmission to users anywhere around the world. Initial service in the northern United States and Canada is expected to start later this year.
+
+The company has regulatory approval to launch thousands of the small solar-powered satellites in different orbital planes, resulting in multiple satellites above the horizon as viewed from any point on Earth that will provide a global network of linked internet relay beacons.
+
+The two 121-pound BlackSky satellites carried aloft Friday — Global 7 and 8 — were added to the mission as "rideshare," or secondary, payloads arranged through Spaceflight Inc. The microsatellites are part of a growing commercial network supplying high-resolution imagery to the U.S. government, foreign government agencies and the private sector.
+
+The satellites provide one-meter resolution views of the planet below for resource management, disaster relief and other concerns.
+
+"In commercial, we're focused on global multi-nationals that have a footprint that requires them to do risk management and risk assessment around the world, where the power of a satellite can really help them out," Scott Herman, Seattle-based BlackSky's chief technology officer, told Spaceflight Now.
+
+The Starlink satellites, top, drift away from the Falcon 9's second stage to wrap up SpaceX's thirteenth flight so far this year.
+
+"If you think about a big energy company or a big supply chain company, they want to keep track of their own facilities, they want to keep track of their competitors' facilities. They want to keep track of upstream suppliers or downstream distributors. Things like container ports and airfields and shipping lanes, those can all impact what's going on with those kind of companies."
+
+The Global 7 and 8 satellites were released from the Falcon 9's second stage about an hour after launch, joining four other BlackSky satellites already in orbit. The company has plans to launch up to two dozen increasingly powerful satellites and possibly more, depending on customer demand.
+
+"What we're trying to do is build a constellation of satellites, a swarm of satellites, that really allow us to have very high revisit and to have capacity to handle lots and lots of different customer requests," Herman said.
+
+The 57 Starlinks were deployed in one group about 90 minutes after launch. All of the Starlinks featured sunshades to minimize their reflectivity in a bid to reduce their possible impact on sensitive astronomical observations.
+
+It was SpaceX's tenth launch of Starlinks after nine previous missions that put up 537 satellites. Not counting two test satellites launched in 2018, Friday's flight pushed the total to 595. Five Starlinks have reportedly been de-orbited.

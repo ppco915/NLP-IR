@@ -1,0 +1,29 @@
+NetMarketShare’s recent report suggests Google Chrome reigning browser world with 71% market shares
+
+NetMarketShare is a service that tracks the usage share of web technologies. Recently, NetMarketShare released a new market share report for July 2020.
+
+As per this report, amongst the Operating Systems share by version, Windows 10’s shares have gone a little up in comparison to June 2020. Then, the share was 58.93%, and for July, the share is 59.59%.
+
+On the other hand, Windows 7 seems to continue spiraling downwards as it continues to see a decline in shares. In June, its share was 23.53%, but in July 2020, the share has further gone down to 23.11%.
+
+However, the overall share of Windows has increased slightly. Previously it was 86.69%, and in July, it is 87.59%.
+
+Coming to the Operating System Market Share, there is sad news for macOS. Previously, its share was 9.22%, which was already quite less. But now, it is 7.08%, which is a considerable drop in comparison to Linux.
+
+Linux’s share is continuously increasing. Previously it was 3.61%, but now it is 4.73%. Some people find this trend quite mysterious and incomprehensible, especially when macOS is in the line of fire at the moment. Many people have now started to believe that if Linux’s share continues to increase, there is a possibility that it might overtake macOS completely in a couple of months.
+
+While macOS seems to be suffering, Chrome OS seems to be in a deeper pit. It has only 0.42% of the share, which has increased a bit from 0.41% since June 2020.
+
+But this is only for the Chrome Operating System. Chrome Browser seems to be the king of browsers in the Browser Market Share currently!
+
+Chrome browser had a 70% market share previously, but now, it is accounting for more than 71% of share in the market.
+
+Microsoft Edge had 8.07% of share in June 2020, but now, it has slightly gone up to 8.09%.
+
+While this is quite disappointing for Microsoft users, it is quite understandable. The Classic Edge was quite unique, but Microsoft did not do proper justice to it. The updates were slow, and there were complaints of browser freezing all the time.
+
+On the other hand, Google was and still is very good and regular with Chrome updates, and inarguably keeps bringing interesting features off and on. Besides, it is very user-friendly and almost everyone uses it, which shows its immense popularity.
+
+Now with the latest Edge version, Microsoft is trying to redeem itself, but it still has to go a long way. Microsoft especially needs to give a good treatment to its new version of the Edge browser if it wants to be able to stand in a proper competition with the mighty Chrome.
+
+Amongst other browsers, Firefox saw a decline in share from 7.58% to 7.36%. While, Internet Explorer also saw a decline from 4.53% to 4.23% share.

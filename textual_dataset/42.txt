@@ -1,0 +1,37 @@
+Medical masks best, cotton good, bandanas worse: Droplet study
+
+WASHINGTON — Health experts have determined that face coverings are a vital tool in reducing the spread of coronavirus — but little research has been done into how different kinds of masks compare.
+
+A new study has ranked 14 types of commonly available mask, finding that medical masks offer significantly more protection against droplet spread than cotton alternatives — while bandanas and balaclavas don't do much at all.
+
+The findings have public policy implications, particularly in the United States where authorities have encouraged the public to use textile masks and leave the medical products to health care workers because they are in short supply.
+
+"We need to scale up surgical mask production and distribution," tweeted Mr Tom Frieden, the former director of the Centers of Disease Control and Prevention under previous US President Barack Obama, in response to the study that appeared in Science Advances.
+
+Masks are important because some 30-40 per cent of people who are infected may not show symptoms but still unwittingly spread the virus when they cough, sneeze or just talk.
+
+Read also
+Masks may reduce viral dose, some experts say
+A team of scientists at Duke University created an inexpensive setup: people stood in a dark room and spoke the words "Stay healthy, people" five times into the direction of an expanded laser beam, which was recorded with a cell phone camera.
+
+A computer algorithm was then used to calculate the number of droplets. The laser and lens involved can be bought for US$200 and the experimental design is easy to replicate by non-experts.
+
+"This sort of test could easily be conducted by businesses and others that are providing masks to their employees or patrons," said co-author Martin Fischer, a chemist and physicist.
+
+Professionally-fitted N95 masks — hospital-grade protection worn by frontline workers in hospitals — reduced droplet transmission to less than 0.1 per cent. 
+
+Surgical or polypropylene masks were not far behind, bringing droplet transmission down by 90 per cent or more compared to no face-coverings.
+
+Hand-made cotton face coverings provided good coverage, eliminating 70 to 90 per cent of the spray from normal speech, depending on the number of layers and the pleating.
+
+Read also
+Masks prevented major coronavirus outbreak at hair salon: Study
+But bandanas only reduced the droplets by about 50 per cent and neck fleeces actually increased the amount of spray, probably by dispersing the largest droplets into many smaller droplets.
+
+Finally, N-95 masks with valves — designed for industrial settings where the user's exhalation was less important than what they inhaled — performed roughly on par with cotton masks in terms of the amount of spray transmitted.
+
+Health authorities have discouraged the use of valved N-95s.
+
+Co-author Eric Westman said he had already put the information to use, avoiding the bulk purchase of a type of mask he and a local non-profit had planned to distribute for free to the public of Durham, North Carolina where the university is based.
+
+"The notion that 'anything is better than nothing' didn't hold true," he said. AFP

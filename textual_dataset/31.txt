@@ -1,0 +1,15 @@
+NASA’s InSight lander shows what’s beneath Mars’ surface
+
+Scientists are learning more about the interior structure of Mars and have found the depths of three boundaries beneath the planet’s surface. “Ultimately it may help us understand planetary formation,” Alan Levander, co-author of the study said in a statement.
+
+This is the first time that these boundaries have been measured directly. Investigating the planet’s interior is complicated because it doesn’t have tectonic plates like Earth does.
+
+“In the absence of plate tectonics on Mars, its early history is mostly preserved compared with Earth,” co-author Sizhuang Deng said in the statement. “The depth estimates of Martian seismic boundaries can provide indications to better understand its past as well as the formation and evolution of terrestrial planets in general.”
+
+The data was collected using NASA’s InSight lander, which uses an instrument called a seismometer to measure vibrations coming from within Mars. It detects marsquakes, in which seismic waves pass through the planet, which can be used to infer details about the density and the composition of the planet beneath the surface.
+
+“The traditional way to investigate structures beneath Earth is to analyze earthquake signals using dense networks of seismic stations,” Deng said in the statement. “Mars is much less tectonically active, which means it will have far fewer marsquake events compared with Earth. Moreover, with only one seismic station on Mars, we cannot employ methods that rely on seismic networks.”
+
+The team found three boundaries within the inner structure of Mars: A divide between the crust and the mantle, located 22 miles beneath the surface, a transition within the mantle from an area where magnesium iron silicates form a mineral called olivine to one where they form wadsleyite, which is found between 690 miles and 727 miles beneath the surface, and the divide between the mantel and the core, which is located between 945 miles and 994 miles beneath the surface.
+
+This information reveals more not only about how the planet exists now, but could also be used to investigate how Mars developed over time.

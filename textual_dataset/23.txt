@@ -1,0 +1,10 @@
+Ring-like Structure on Ganymede May Have Been Caused by a Violent Impact
+Researchers from Kobe University and the National Institute of Technology, Oshima College have conducted a detailed reanalysis of image data from Voyager 1, 2 and Galileo spacecraft in order to investigate the orientation and distribution of the ancient tectonic troughs found on Jupiter’s moon Ganymede.
+They discovered that these troughs are concentrically distributed across almost the entire surface of the satellite. This global distribution indicates that these troughs may be actually part of one giant crater covering Ganymede.
+
+Based on the results of a computer simulation conducted using the “PC Cluster” at the National Astronomical Observatory of Japan (NAOJ), it is speculated that this giant crater could have resulted from the impact of an asteroid with a radius of 150km. If so, the structure is the largest impact structure identified in the solar system so far.
+
+The European Space Agency’s JUICE (Jupiter Icy Moon Explorer) mission, which will be launched in 2022 and arrive in Jupiter’s system in 2029, aims to increase our knowledge regarding Jupiter’s satellites, including Ganymede. It is hoped that this exploration will confirm the results of this study and further advance our understanding of the formation and evolution of Jupiter’s satellites.
+
+The research team consisted of Kobe University Graduate School of Science’s Assistant Professor HIRATA Naoyuki and Professor OHTSUKI Keiji (both of the Department of Planetology), and Associate Professor SUETSUGU Ryo of National Institute of Technology, Oshima College.
+

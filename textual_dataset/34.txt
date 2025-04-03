@@ -1,0 +1,23 @@
+The Difference Between Success and Failure: (Neuro)science of Getting and Staying Motivated
+
+There is no question that motivation is one of the hardest and yet important factors in life. It’s the difference between success and failure, goal-setting and aimlessness, well-being and unhappiness. And yet, why is it so hard to get motivated — or even if we do, to keep it up?
+
+That is the question that scientists led by Professor Carmen Sandi at EPFL and Dr. Gedi Luksys at the University of Edinburgh have sought to answer. The researchers worked off previous knowledge that told them two things: First, that people differ a lot in their capacity to engage in motivated behavior and that motivational problems like apathy are common in neurodegenerative and psychiatric disorders. Second, to target an area of the brain called the “nucleus accumbens”.
+
+Sitting close to the bottom of brain, the nucleus accumbens has been the subject of a lot of research. The reason is that it was quickly found to be a major player in functions like aversion, reward, reinforcement, and motivation.
+
+To test and quantify motivation, the EPFL team designed what is known as a “monetary incentive force task”. The idea is that participants perform a task with increasing — and measurable — effort and get paid sums of money that correspond to their effort. Basically, do more and get paid more.
+
+In this study, 43 men were scanned to measure-metabolites in the nucleus accumbens in their brains with a sophisticated brain-imaging technique called “proton magnetic resonance spectroscopy”, or 1H-MRS. This can specifically measure the abundance of neurochemicals in the brain, such as neurotransmitters and metabolites. Because of this 1H-MRS is used even in clinical settings to determine neurological disorders.
+
+Subsequently, each participant was asked to squeeze a device that measures force — a dynamometer to a given level of contraction in order to earn either 0.2, 0.5, or 1 Swiss franc. This procedure was repeated for a number of 120 consecutive trials, which made performance in the task quite demanding.
+
+The idea of the experiment was that the different sums would push participants to decide if they were going to invest energy and perform the task accordingly at each trial. The scientists also ran the experiment under isolation and group conditions to investigate the influence of competition on performance.
+
+Once they had gathered the behavioral data, the researchers processed it through a computational model that estimated the most appropriate parameters that should be measured with regard to utility, effort, and performance functions. This allowed them to interrogate whether particular neurotransmitter levels predicted specific motivational functions.
+
+The analysis revealed that the key to performance — and, by extension, motivation — lies within the ratio of two neurotransmitters in the nucleus accumbens: glutamine and glutamate. Specifically, the ratio of glutamine to glutamate relates to our capacity for maintaining performance over a long period of time — what the researchers term “stamina”.
+
+Another discovery was that competition seems to boost performance even from the beginning of the task. This was especially the case for individuals with low glutamine-to-glutamate ratios in the nucleus accumbens.
+
+“The findings provide novel insights in the field of motivation neuroscience,” says Carmen Sandi. “They show that the balance between glutamine and glutamate can help predict specific, computational components of motivated performance. Our approach and data can also help us develop therapeutic strategies, including nutritional interventions, that address deficits in effort engagement by targeting metabolism.”

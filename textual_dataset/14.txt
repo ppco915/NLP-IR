@@ -1,0 +1,27 @@
+Scientists may have discovered the Achilles’ heel of the coronavirus
+
+Like the rebel alliance blowing up the death star’s thermal exhaust port or the legendary Greek warrior Achilles falling victim to nothing more than an arrow lodged in his ankle, seemingly unstoppable forces often harbor a tiny weakness that proves to be their downfall.
+
+Now, researchers from Northwestern University have discovered a new vulnerability within SARS-CoV-2’s genetic structure that may just prove to be the coronavirus’ Achilles heel. The study’s authors say this revelation paves the way toward a new, simple coronavirus treatment approach.
+
+More specifically, this discovery pertains to the coronavirus’ spike protein.
+
+While the word protein is synonymous with dumbbell racks and biceps, in this case, SARS-CoV-2’s spike protein is essentially what gives the virus its nasty ability to infect new people so quickly. The spike protein houses the virus’ binding site which is what attaches itself to new host cells, allowing the coronavirus to enter and infect host after host. 
+
+All of that isn’t groundbreaking news for scientists, but here’s where things get interesting. Via a series of nanometer-level simulations, the team at Northwestern noticed a positively charged area located just 10 nanometers from the spike protein’s binding site. 
+
+This positively charged area, referred to as the polybasic cleavage site, appears to function as a helper of sorts in the bonding process to a new host. The polybasic cleavage site’s positive charge fosters a stronger connection between the coronavirus spike protein and the negative charge of human cell receptors.
+
+Upon making this discovery, however, the research team quickly realized they may be able to take advantage of the polybasic cleavage site. So, they designed and created a custom negatively charged molecule that would bind to the positively charged polybasic cleavage site just like a human cell. 
+
+The idea here is that if the coronavirus binds itself to this decoy, it will be unable (or at least less able) to actually infect new people and spread further.
+
+“Our work indicates that blocking this cleavage site may act as a viable prophylactic treatment that decreases the virus’ ability to infect humans,” says study leader Monica Olvera de la Cruz, the Lawyer Taylor Professor of Materials Science and Engineering in Northwestern’s McCormick School of Engineering, in a release. “Our results explain experimental studies showing that mutations of the SARS-CoV-2 spike protein affected the virus transmissibility.”
+
+Polybasic cleavage sites aren’t an entirely new concept. Prior studies conducted long before COVID-19 had suggested that these viral areas, made up of amino acids, are important components of the spread and transmission of viruses in general. For whatever reason, though, locating SARS-CoV-2’s polybasic cleavage site had proven difficult up until this study.
+
+“The function of the polybasic cleavage site has remained elusive,” professor Olvera de la Cruz adds. “However, it appears to be cleaved by an enzyme (furin) that is abundant in lungs, which suggests the cleavage site is crucial for virus entry into human cells.”
+
+“We didn’t expect to see electrostatic interactions at 10 nanometers,” comments first study author Baofu Qiao, a research assistant professor in Olvera de la Cruz’s research group. “In physiological conditions, all electrostatic interactions no longer occur at distances longer than 1 nanometer.”
+
+The research team is already planning on collaborating with both chemists and pharmacologists at Northwestern to start developing a new drug that incorporates these findings.

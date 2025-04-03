@@ -1,0 +1,49 @@
+What’s Next for Bitcoin Following Its Largest 3-Day Price Drop Since the FTX Collapse?
+
+This week, Bitcoin’s (BTC) extended range above $90K has ended on a negative note. What happened?
+
+The 12.6% decline recorded in the first three days of the week (based on UTC hours) is the most significant drop since the FTX crash in November 2022, according to TradingView data.
+
+This sell-off aligns with CoinDesk’s earlier analysis from this month, highlighting investor frustration over the slow response from President Donald Trump’s administration regarding the creation of a national BTC reserve and the tightening of fiat liquidity conditions.
+
+Demand from institutions for the leading cryptocurrency and its next largest counterpart, ether (ETH), has diminished, pushing the CME futures market closer to backwardation, a condition where spot prices eclipse futures prices.
+
+Moreover, Nasdaq, the tech-driven index on Wall Street, has also faced challenges, compounding the troubles for BTC.
+
+BTC’s three-day candlestick chart. (TradingView/CoinDesk)
+The pressing question is, what will come next? The anticipated path appears to trend downward, particularly as discussions around Trump tariffs intensify with the March 4 deadline for tariffs against Canada and Mexico approaching. The initial actions taken earlier this month have already created a pervasive risk-off sentiment.
+
+Bulls should not rest their hopes on Friday’s core PCE
+Those who are banking on the U.S. “core” Personal Consumption Expenditures (PCE) index on Friday, which is the Fed’s favored gauge of inflation, to buoy risk assets may find themselves disappointed, as noted by Noelle Acheson, author of the “Crypto is Macro Now” newsletter.
+
+The core PCE, which excludes the more volatile categories of food and energy, is projected to have increased by 2.6% year-on-year in January, down from December’s 2.8%, according to FactSet’s consensus estimates cited by Morningstar. Generally, slower inflation is linked to a higher likelihood of Fed rate cuts and a risk-on environment.
+
+However, this time, markets could disregard the anticipated soft reading and focus on the rising forward-looking inflation indicators. For example, the Conference Board’s consumer confidence for February released this week indicated a rise in one-year inflation expectations from 5.2% to 6%. That’s a significant increase. The two- and five-year inflation swaps have also been climbing, as CoinDesk highlighted earlier this month.
+
+Acheson believes that markets may interpret the expected decline in core PCE as a signal of economic frailty.
+
+“Regardless, even if the PCE comes in softer than expected, it might be seen as confirmation of a slowdown in growth, prompting another wave of market concern,” Acheson mentioned in the Wednesday edition of the newsletter shared with CoinDesk.
+
+“Consequently, this negative sentiment is largely macro-driven,” Acheson pointed out, voicing worries about tariffs, elevated corporate valuations, and excessive portfolio exposure to AI.
+
+Nonetheless, Acheson suggested that crypto could soon regain its strength due to bitcoin’s unique position as both a risk asset and a safe haven similar to digital gold.
+
+“For most portfolios, the dual nature of risk asset/safe haven indicates that there is a price point where new long-term investors will begin to enter – which, in turn, encourages traders to return to the market,” Acheson explained.
+
+Potential support levels/demand zones
+According to technical analysis, a downward breach of a prolonged range like BTC’s typically results in a significant drop, equal to the range’s width. Thus, a break below the $90K-$110K range implies a possible decline to $70,000.
+
+“In a best-case scenario, Bitcoin could retreat to the $72,000–$74,000 range, where a recovery is likely to occur,” remarked Markus Thielen, founder of 10x Research, in a note to clients on Wednesday, referencing bitcoin’s delayed correlation to global central bank liquidity indicators.
+
+BTC’s lagged positive relationship with the global liquidity indicator. (10x Research)
+That being said, BTC has bounced back to $86,000 as of this writing, having touched a perceived demand zone near $82,000, as indicated by Markus Thielen in his client note on Wednesday.
+
+Thielen pinpointed the $82,000 level through an on-chain metric known as the short-term holders’ realized price – the average purchase price for addresses holding BTC for less than 155 days – suggesting that this area represents potential demand.
+
+“Historically, Bitcoin seldom trades below this realized price for short-term holders during bull markets for extended periods; conversely, it remains below this level longer during bear markets. In the summer consolidation of 2024, Bitcoin fell $9,616 below this metric, which is currently at $92,800,” Thielen remarked in his client communication.
+
+“Should the consolidation pattern of 2024 recur, Bitcoin might decline to approximately $82,000 before finding stability,” Thielen added.
+
+Some analysts express optimism that regulatory clarity following Wednesday’s Senate Committee meeting on “Exploring a Bipartisan Legislative Framework for Digital Assets” could enhance market valuations.
+
+“A well-defined regulatory structure may be precisely what the market needs to attract institutional confidence and catalyze the next influx of capital. If the U.S. establishes clear guidelines for stablecoins and broader digital assets regulations, we might observe significant institutional investments in this space,” commented Matt Mena, crypto research strategist at 21Shares, in an email.

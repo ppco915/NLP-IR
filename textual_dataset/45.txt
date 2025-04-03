@@ -1,0 +1,19 @@
+NASA's Ingenuity Mars helicopter recharges its batteries in flight
+
+Headed to the Red Planet with the Perseverance rover, the pioneering helicopter is powered up for the first time in interplanetary space as part of a systems check.
+
+NASA's Ingenuity Mars Helicopter received a checkout and recharge of its power system on Friday (August 7), one week into its near seven-month journey to Mars with the Perseverance rover.
+
+This marks the first time the helicopter has been powered up and its batteries have been charged in the space environment.
+
+During the eight-hour operation, the performance of the rotorcraft's six lithium-ion batteries was analyzed as the team brought their charge level up to 35 per cent. The project has determined a low charge state is optimal for battery health during the cruise to Mars.
+
+"This was a big milestone, as it was our first opportunity to turn on Ingenuity and give its electronics a 'test drive' since we launched on July 30," said Tim Canham, the operations lead for Mars Helicopter at NASA's Jet Propulsion Laboratory in Southern California.
+
+"Since everything went by the book, we'll perform the same activity about every two weeks to maintain an acceptable state of charge," Canham added. The 4-pound (2-kilogram) helicopter -- a combination of specially designed components and off-the-shelf parts â is currently stowed on Perseverance's belly and receives its charge from the rover's power supply.
+
+Once Ingenuity is deployed on Mars' surface after Perseverance touches down, its batteries will be charged solely by the helicopter's own solar panel. If Ingenuitysurvives the cold Martian nights during its preflight checkout, the team will proceed with testing.
+
+"This charge activity shows we have survived launch and that so far we can handle the harsh environment of interplanetary space. We have a lot more firsts to go before we can attempt the first experimental flight test on another planet, but right now we are all feeling very good about the future," said MiMi Aung, the Ingenuity Mars Helicopter project manager at JPL.
+
+The small craft will have a 30-Martian-day (31-Earth-day) experimental flight-test window. If it succeeds, Ingenuity will prove that powered, controlled flight by an aircraft can be achieved at Mars, enabling future Mars missions to potentially add an aerial dimension to their explorations with second-generation rotorcraft.

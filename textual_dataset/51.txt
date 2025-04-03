@@ -1,0 +1,6 @@
+Intel Announces 10nm SuperFin Transistor – Roughly The Same Level Of Performance Uplift As A Node Shrink
+
+Intel held its Architecture Day 2020 for the press on August 11 and revealed quite a few technological innovations but the star of the show for architecture fans was the company's SuperFin process enhancement. Intel joked about their ++++ improvements on 14nm and revealed a new FinFET type for 10nm called SuperFin which allowed them to gain several plusses worth of improvement in one go. According to Intel and the benchmarks they provided, the improvement in performance is roughly equal to one node shrink.
+
+Intel's 10nm SuperFin transistor achieves ~17.5% performance uplift and significantly higher clock speeds compared to vanilla 10nm
+Intel's 10nm has gained quite a reputation for being broken but it looks like the company has not only managed to fix problems with the original 10nm process but improve it to get several iterations worth of performance uplift in a single go. A single "+" iteration previously gave a performance uplift of around 5% but with 10nm SuperFin enhanced, the intranode performance uplift is roughly 17.5% when compared to vanilla 10nm.

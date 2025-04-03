@@ -1,0 +1,46 @@
+On its own, a locust is fairly harmless. But so-called solitary locusts can undergo a metamorphosis, changing colour and joining together with millions of others in catastrophic clouds that strip fields.
+
+So what prompts locusts to transform from solitary to "gregarious"?
+
+A study published Wednesday in the journal Nature reveals the secret lies in a pheromone.
+
+Almost like an irresistible perfume, the chemical compound is emitted by locusts when they find themselves in proximity to just a few others of their kind.
+
+The chemical attracts other locusts, who join the group and also begin emitting the scent, creating a feedback loop that results in enormous swarms.
+
+The discovery offers several tantalising possibilities, including genetically engineering locusts without the receptors that detect the swarming pheromone, or weaponising the pheromone to attract and trap the insects.
+
+The study comes as record numbers of locusts devour crops in east Africa and threaten the food supply in Pakistan.
+
+It focused on the migratory locust, the most widely distributed species of the insect, and examined several compounds produced by the bug.
+
+It found that one in particular -- 4-vinylanisole, or 4VA -- appeared to attract locusts when emitted, and that the more locusts flocked together, the more 4VA they emitted.
+
+The team, led by Le Kang, a professor at the Chinese Academy of Sciences, found solitary locusts began releasing 4VA when just four were placed together in a cage.
+
+The team then examined how the locusts picked up the scent, and isolated the part of the locust antennae responsible for detecting the swarming pheromone.
+
+And from there, they found the gene necessary for the detection process and produced genetically modified locusts lacking the key Or35 gene.
+
+The "mutant locusts lost their attraction to 4VA compared with the wild-type locusts", the study said.
+
+Chemical interference
+The discoveries open up several possibilities for tackling the voracious pests, including using genetic modification, or tracking 4VA production to predict where swarms may be forming.
+
+There are other avenues too, including weaponising the chemical, by using a synthetic form of it to bait traps to catch locusts.
+
+Kang and his team tried this, setting up traps in both controlled settings and in the field, and in both cases found the locusts were effectively lured.
+
+"Optimisation and adjustment are necessarily required from the experiments to practical application," Kang told AFP.
+
+But he said the traps were "significantly efficient" and could be a comparatively easy first application of the research.
+
+Leslie Vosshall, head of Rockefeller University's Laboratory of Neurogenetics and Behavior, said perhaps the most exciting application would be finding a chemical that would block reception of 4VA.
+
+"The discovery of such a molecule might provide a chemical antidote to insect aggregation and cause locusts to 'stand down' and return to their peaceful, solitary way of life," she wrote in a review commissioned by Nature.
+
+Vosshall pointed out that there are still several unknowns, including whether 4VA is the only thing that causes swarm formation, and whether other locust species respond similarly to the compound.
+
+Kang said genetic modification of locusts might offer "sustainable and green control" but acknowledged such a project would require large-scale and long-term efforts.
+
+"This is an approach for long-term control of locusts, and needs strict biological security evaluation before application."
