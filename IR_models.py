@@ -164,6 +164,7 @@ class VectorSpaceSearcher:
         scores.sort(key=lambda x: x[1], reverse=True)
         return scores
 
+# This class was implemented with the aid of ChatGPT o3.
 class LSISearcher:
     """
     Latent‐Semantic Indexing on top of the existing InvertedIndex.
